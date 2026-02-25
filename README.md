@@ -12,11 +12,11 @@ A minimal Minecraft-style personal portfolio built with **pure HTML + CSS + Java
 
 | Hero Section | Experience |
 |---|---|
-| ![Hero](screenshots/hero.png) | ![Experience](screenshots/experience.png) |
+| ![Hero](herosection.png) | ![Experience](experience.png) |
 
 | Projects | Contact Chatbox |
 |---|---|
-| ![Projects](screenshots/projects.png) | ![Contact](screenshots/contact.png) |
+| ![Projects](projects.png) | ![Contact](contact.png) |
 
 ---
 
