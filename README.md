@@ -8,8 +8,6 @@ A minimal Minecraft-style personal portfolio built with **pure HTML + CSS + Java
 
 ## 📸 Screenshots
 
-<!-- Replace the paths below with your actual screenshots -->
-
 | Hero Section | Experience |
 |---|---|
 | ![Hero](herosection.png) | ![Experience](experience.png) |
@@ -17,6 +15,10 @@ A minimal Minecraft-style personal portfolio built with **pure HTML + CSS + Java
 | Projects | Contact Chatbox |
 |---|---|
 | ![Projects](projects.png) | ![Contact](contact.png) |
+
+<p align="center">
+  <img src="gallery.png" alt="Full Portfolio Preview" width="90%" />
+</p>
 
 ---
 
